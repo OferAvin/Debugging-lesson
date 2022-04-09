@@ -1,6 +1,9 @@
 # Debugging-lesson
 Debugging lesson for matlab course<br>
 
+## Task
+get the minimal inter spike interval(ISI) for each of the trials in Spikes.mat
+
 ## Files
 debugging_class - pseudo code to teach how to start to write code<br>
 debugging_class2 - code with bugs<br>
