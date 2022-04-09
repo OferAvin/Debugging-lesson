@@ -2,7 +2,7 @@
 Debugging lesson for matlab course<br>
 
 ## Files
-debugging_class1 - pseudo code to teach how to start to write code<br>
+debugging_class - pseudo code to teach how to start to write code<br>
 debugging_class2 - code with bugs<br>
 debugging_class3 - correct code<br>
 get_spikes_diff - simple function<br>
